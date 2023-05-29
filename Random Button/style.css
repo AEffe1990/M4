@@ -1,0 +1,12 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  #changeBgButton {
+    padding: 15px 30px;
+    font-size: 18px;
+  }
+  
